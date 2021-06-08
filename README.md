@@ -19,9 +19,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ningyunhan&repo=webpack-config-playaround)](https://github.com/ningyunhan/webpack-config-playaround)
 
-[![Yunhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningyunhan)](https://ningyunhan.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningyunhan)](https://ningyunhan.com)
+[![Yunhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningyunhan)](https://ningyunhan.com)
 
 
 <!--

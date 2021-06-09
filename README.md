@@ -1,6 +1,6 @@
 ## Hi there, I'm <a href="https://ningyunhan.com" target="_blank">Yunhan</a> 👋
 
-### **It's my pleasure yo meet you here!** &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ningyunhan.visitor-badge)
+### **It's my pleasure to meet you here!** &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ningyunhan.visitor-badge)
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yunhan-ning-90915b134/)
